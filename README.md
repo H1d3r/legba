@@ -67,7 +67,7 @@ Once installed, your agent will know how to construct legba commands, write reci
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=evilsocket/legba&type=Timeline)](https://www.star-history.com/#evilsocket/legba&Timeline)
+[![Star History Chart](https://star-history.dera.page/svg?repos=evilsocket/legba&type=Timeline)](https://star-history.dera.page/#evilsocket/legba&Timeline)
 
 ## License
 
